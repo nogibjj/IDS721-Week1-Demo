@@ -1,5 +1,14 @@
-# IDS721 Week1 Demo
+# IDS721 Week1 Demo: Factorial Calculator
 
-## Setup a Rust and Python Interaction
+This project demonstrates a simple command line factorial calculator in Rust.
 
-`cargo new sudoku`
+## Getting Started
+### Navigate to the project directory
+
+```
+cd factorial
+```
+### Run the program
+```
+cargo run
+```
