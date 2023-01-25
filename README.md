@@ -1,6 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# IDS721 Week1 Demo
 
-## References
+## Setup a Rust and Python Interaction
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+`cargo new sudoku`
