@@ -1,1 +1,1 @@
-/workspaces/IDS721-Week1-Demo/sudoku/target/debug/sudoku: /workspaces/IDS721-Week1-Demo/sudoku/src/main.rs
+/workspaces/IDS721-Week1-Demo/factorial/target/debug/sudoku: /workspaces/IDS721-Week1-Demo/factorial/src/main.rs
